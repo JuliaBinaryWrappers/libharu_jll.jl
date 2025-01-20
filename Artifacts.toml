@@ -1,0 +1,151 @@
+[[libharu]]
+arch = "aarch64"
+git-tree-sha1 = "b11d37e63aec6d672fd2b15944dad760abdfd8e2"
+os = "macos"
+
+    [[libharu.download]]
+    sha256 = "8f35c13375c7a793df0e0454ce8faf4e48f23cbc9e219809e570bdeccab5abc1"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.aarch64-apple-darwin.tar.gz"
+[[libharu]]
+arch = "aarch64"
+git-tree-sha1 = "db8f11be75f4efbaa1249d3774a43b9417b334ba"
+libc = "glibc"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "0ed07930bb9e4bfa52169867199fcd7f570597080608b6d61b25efa4f57eeba9"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.aarch64-linux-gnu.tar.gz"
+[[libharu]]
+arch = "aarch64"
+git-tree-sha1 = "9e029fcb7833237a7ec5a2f5a95b2d3c23c6cdd1"
+libc = "musl"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "a21b2b2144607e902d4bc7472cfe4349fc6570089f14ee83925fea71e7f0f012"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.aarch64-linux-musl.tar.gz"
+[[libharu]]
+arch = "aarch64"
+git-tree-sha1 = "851e6201d27770e3e0c7506660da8fc4e00440e5"
+os = "freebsd"
+
+    [[libharu.download]]
+    sha256 = "b23abae899a5d60dc79c5f2870a72a81e69096eea3edcce81c12b9c34532259d"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.aarch64-unknown-freebsd.tar.gz"
+[[libharu]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5821c2d268809090f8199572419e9fba6080a0de"
+libc = "glibc"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "c8c2f42ffd8795ccca1b4aab412cb41fe1f386503ad2e1a7eff004b8a69b98fb"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.armv6l-linux-gnueabihf.tar.gz"
+[[libharu]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f9ad1eb474e92072fe786019ac0a03829961e3f3"
+libc = "musl"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "822a3f68e9278366ecca4bf3de01c3ab42934d71e907d22faf30a43f8ddd8bea"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.armv6l-linux-musleabihf.tar.gz"
+[[libharu]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e616a6027716dda2f8a8ab0e2c4b55e528ac3904"
+libc = "glibc"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "5f2306e6fd9fe9858464452c232a495bb03e5db5bf9bccb5434637f057e03285"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.armv7l-linux-gnueabihf.tar.gz"
+[[libharu]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1bb2822c39e5ba4fe026d3e686218ca9547fd4a8"
+libc = "musl"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "5b20e7c38a94b1213b78b441ea54fe5a5d778ff6660d370da83c9e26013475bd"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.armv7l-linux-musleabihf.tar.gz"
+[[libharu]]
+arch = "i686"
+git-tree-sha1 = "6789397088f3fdcf4114ca03abedb2ee6a7a1361"
+libc = "glibc"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "869d545e3b362cfb52885f104805fa65975176808a489eaee2b2d526ec027b7d"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.i686-linux-gnu.tar.gz"
+[[libharu]]
+arch = "i686"
+git-tree-sha1 = "facac82b4dfc64d39eab087c8bb1d0961660f5ee"
+libc = "musl"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "8196625d4b38a8653ef69fef49d581179986e5be8c14860536bf59ed95e4f217"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.i686-linux-musl.tar.gz"
+[[libharu]]
+arch = "i686"
+git-tree-sha1 = "460cd2b50ad2164b60048a7a02d7d429ef06ae9a"
+os = "windows"
+
+    [[libharu.download]]
+    sha256 = "428e94b6136fdb31e3ac7cc52602e2bad0b554b2cb255690a9170e7624537b12"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.i686-w64-mingw32.tar.gz"
+[[libharu]]
+arch = "powerpc64le"
+git-tree-sha1 = "3eacde1d8d97097fcdd8360b3cb2d326ea76115b"
+libc = "glibc"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "9cecf6467e19cc6feb76937c377e9c248617b2ff4b9079b011740d7f8eead620"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.powerpc64le-linux-gnu.tar.gz"
+[[libharu]]
+arch = "x86_64"
+git-tree-sha1 = "af30cae7848fd5c2153cd60554318fa31bd479b6"
+os = "macos"
+
+    [[libharu.download]]
+    sha256 = "09a38e41c593e9d87243e46a450bc6ca7a98005f814186c0e4865a23e7f1ed16"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.x86_64-apple-darwin.tar.gz"
+[[libharu]]
+arch = "x86_64"
+git-tree-sha1 = "ea6e816ffb809c2832819f380c781cf5603c81bc"
+libc = "glibc"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "e9984075f47caa39efcbe81aa3ea441a3aa5ea69a6b9e92c46480dc2cc30013b"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.x86_64-linux-gnu.tar.gz"
+[[libharu]]
+arch = "x86_64"
+git-tree-sha1 = "5f9eddddf61ee44b3883368f9140c07d7edea16c"
+libc = "musl"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "7e3cce051d62593c2c5bb4d36146f46f04eb739b119f09987b82f42046826897"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.x86_64-linux-musl.tar.gz"
+[[libharu]]
+arch = "x86_64"
+git-tree-sha1 = "072a2e33c7df38ca1c0e27c4c8cb428578d1971d"
+os = "freebsd"
+
+    [[libharu.download]]
+    sha256 = "c047ceeb63b7db328c8b44e9eff85820004e83ce343c1ef0d18dc3d2db219584"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.x86_64-unknown-freebsd.tar.gz"
+[[libharu]]
+arch = "x86_64"
+git-tree-sha1 = "9f7f5e66795df2c2b95d21bc6c51becef893433e"
+os = "windows"
+
+    [[libharu.download]]
+    sha256 = "636861ed9b67d6452e350d34d8e3cbe5f9fad3bf745942e4372441124faeb76d"
+    url = "https://github.com/JuliaBinaryWrappers/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.x86_64-w64-mingw32.tar.gz"
